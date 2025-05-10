@@ -1,0 +1,54 @@
+{
+  "natural": [
+    {
+      "name": "Grand Canyon",
+      "image": "https://cdn.pixabay.com/photo/2021/01/31/19/56/utah-5968412_1280.jpg"
+    },
+    {
+      "name": "Niagara Falls",
+      "image": "https://cdn.pixabay.com/photo/2020/04/16/11/41/waterfall-5050298_1280.jpg"
+    },
+    {
+      "name": "Mount Fuji",
+      "image": "https://cdn.pixabay.com/photo/2016/10/01/06/13/japan-1706942_1280.jpg"
+    },
+    {
+      "name": "Aurora Borealis",
+      "image": "https://cdn.pixabay.com/photo/2016/02/13/12/26/christmas-background-1197753_1280.jpg"
+    },
+    {
+      "name": "Ha Long Bay",
+      "image": "https://cdn.pixabay.com/photo/2019/07/26/09/27/ha-long-4364342_1280.jpg"
+    },
+    {
+      "name": "Amazon Rainforest",
+      "image": "https://cdn.pixabay.com/photo/2016/11/19/22/16/rio-1841419_1280.jpg"
+    }
+  ],
+  "manmade": [
+    {
+      "name": "Eiffel Tower",
+      "image": "https://cdn.pixabay.com/photo/2024/04/25/03/37/eiffel-tower-8718845_1280.jpg"
+    },
+    {
+      "name": "Taj Mahal",
+      "image": "https://cdn.pixabay.com/photo/2018/08/01/19/52/india-3578009_1280.jpg"
+    },
+    {
+      "name": "Great Wall of China",
+      "image": "https://cdn.pixabay.com/photo/2024/10/09/06/58/ai-generated-9106987_1280.jpg"
+    },
+    {
+      "name": "Statue of Liberty",
+      "image": "https://cdn.pixabay.com/photo/2016/10/21/15/35/statue-of-liberty-1758290_1280.jpg"
+    },
+    {
+      "name": "Pyramids of Giza",
+      "image": "https://cdn.pixabay.com/photo/2016/11/19/14/38/camel-1839616_1280.jpg"
+    },
+    {
+      "name": "Petra",
+      "image": "https://cdn.pixabay.com/photo/2020/03/29/21/44/petra-4982346_1280.jpg"
+    }
+  ]
+}
